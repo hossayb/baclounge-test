@@ -1,0 +1,21 @@
+
+{
+  "expo": {
+    "sdkVersion": "36.0.0",
+    "name": "BACLounge App",
+    "icon": "./src/assets/images/app-icon.png",
+    "version": "3.3.10",
+    "slug": "baclounge-app",
+    "orientation": "landscape",
+    "ios": {
+      "bundleIdentifier": "io.infinity-mobile.baclounge-app",
+      "supportsTablet": true,
+      "isTabletOnly": true,
+      "splash": {
+      	"backgroundColor": "#FFFFFF",
+      	"tabletImage": "./src/assets/images/app-splash.png",
+      	"image": "./src/assets/images/app-splash.png"
+      }
+    }
+  }
+}
